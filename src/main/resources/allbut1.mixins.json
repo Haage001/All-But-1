@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "haage.allbut1.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"HandledScreenAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
