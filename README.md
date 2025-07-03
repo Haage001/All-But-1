@@ -30,6 +30,13 @@
 
 ## Dependencies
 
-- **Fabric API** (required) 
+### Required
 
-
+<a href="https://modrinth.com/mod/fabric-api">
+  <img
+    src="https://cdn.modrinth.com/data/cached_images/b541ef52cf8c8e8d990ac261f745a0d405896096.png"
+    alt="Fabric API"
+    width="80"
+    loading="lazy"
+  />
+</a>
