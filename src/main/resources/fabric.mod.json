@@ -5,6 +5,10 @@
 	"name": "AllBut1",
 	"description": "This mod lets you take a stack out of a container, but leave 1.",
 	"authors": [ "Haage" ],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/all-but-1",
+		"issues": "https://github.com/Haage001/All-But-1/issues"
+	},
 	"license": "MIT",
 	"icon": "assets/allbut1/icon.png",
 	"environment": "*",
