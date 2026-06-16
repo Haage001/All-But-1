@@ -1,14 +1,16 @@
 # Changelog
 
+## 2.2.0
+### Added
+- Initial 26.2 release.
+
+### Changed
+
+### Fixed
+
 ## 2.1.0
 ### Added
 - Quick all-but-1 on Ctrl+Shift+click. #2
-
-### Changed
-- Works both ways: container to inventory and inventory to container.
-
-### Fixed
-- Shift-only click stays vanilla quick-move.
 
 ## 2.0.0
 ### Added
